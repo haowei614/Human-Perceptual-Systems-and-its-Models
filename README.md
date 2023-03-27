@@ -1,2 +1,2 @@
-# Human-Perceptual-Systems-and-its-Models-README
+# Human-Perceptual-Systems-and-its-Models
 JAIST-I645E
